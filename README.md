@@ -27,7 +27,7 @@ pip install -r requirements.txt
 La repository contiene alcuni script utili nella cartella `utility` per preprocessare le immagini del dataset:
 
 1.  `convertGTSDB.py`: converte il dataset GTSDB in formato YOLO.
-2.  `createbackgoundimages.py`: estrae delle immagini dal dataser per creare il backgorund.
+2.  `createbackgoundimages.py`: estrae delle immagini dal dataset per ottenere immagini di background(senza etichette).
 
 ## Demo di Addestramento (Notebook .ipynb)
 
@@ -58,7 +58,8 @@ L'applicazione di Rilevamento Segnali Stradali è un'interfaccia grafica (GUI) c
 
 ## Esempio
 
-![Video Dimostrativo](https://user-images.githubusercontent.com/Matteovullo/Progetto-ML/assets/video_dimostrativo_demo.mov)
+Nella repository è disponibile un video dimostrativo dell'utilizzo della demo:
+https://github.com/Matteovullo/Progetto-ML/blob/main/assets/video_dimostrativo_demo.mov
 
 ### **Esecuzione dell'Applicazione**
 
