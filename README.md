@@ -1,9 +1,4 @@
 # Rilevamento Segnali Stradali con YOLOv10
-
-![anteprima](https://github.com/user-attachments/assets/425e5e3a-3fd7-4385-a4e6-fee2ae3eca22)
-
-### Panoramica
-
 Questo progetto, sviluppato per il corso di Machine Learning dell'Università di Catania (Anno Accademico 2024-2025), si concentra sul rilevamento di segnali stradali utilizzando YOLOv10. L'obiettivo è valutare e confrontare le prestazioni di tre diverse varianti del modello: YOLOv10n, YOLOv10s e YOLOv10m.
 
 ### Descrizione del Progetto
@@ -63,7 +58,7 @@ L'applicazione di Rilevamento Segnali Stradali è un'interfaccia grafica (GUI) c
 
 ## Esempio
 
-https://github.com/user-attachments/assets/a89e9e9f-f81d-4682-937e-16477ed89c53
+https://github.com/Matteovullo/Progetto-ML/raw/main/assets/video_dimostrativo_demo.mov
 
 ### **Esecuzione dell'Applicazione**
 
