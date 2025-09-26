@@ -58,7 +58,7 @@ L'applicazione di Rilevamento Segnali Stradali è un'interfaccia grafica (GUI) c
 
 ## Esempio
 
-https://github.com/Matteovullo/Progetto-ML/assets/video_dimostrativo_demo.mov
+![Video Dimostrativo](https://user-images.githubusercontent.com/Matteovullo/Progetto-ML/assets/video_dimostrativo_demo.mov)
 
 ### **Esecuzione dell'Applicazione**
 
