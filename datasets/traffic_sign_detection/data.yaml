@@ -1,0 +1,26 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: forb_overtake
+  1: forb_overtake_trucks
+  2: forb_speed_over_10
+  3: forb_speed_over_100
+  4: forb_speed_over_120
+  5: forb_speed_over_20
+  6: forb_speed_over_30
+  7: forb_speed_over_40
+  8: forb_speed_over_50
+  9: forb_speed_over_60
+  10: forb_speed_over_70
+  11: forb_speed_over_80
+  12: forb_stopping
+  13: forb_waiting
+  14: info_crosswalk
+  15: prio_give_way
+  16: prio_stop
+  17: warn_crosswalk
+  18: warn_double_curve
+  19: warn_left_curve
+  20: warn_right_curve
