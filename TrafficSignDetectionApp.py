@@ -245,8 +245,8 @@ def load_model(event):
     model_name = selected_model.get()
     model_paths = {
         "YOLOv10n": "./TrainYolov10n/runs/detect/train/weights/best.pt",
-        "YOLOv10s": "./TrainYolov10n/runs/detect/train2/weights/best.pt",
-        "YOLOv10m": "./TrainYolov10n/runs/detect/train3/weights/best.pt"
+        "YOLOv10s": "./TrainYolov10s/runs/detect/train2/weights/best.pt",
+        "YOLOv10m": "./TrainYolov10m/runs/detect/train3/weights/best.pt"
     }
     try:
         model = YOLO(model_paths[model_name])
